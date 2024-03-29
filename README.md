@@ -2,8 +2,8 @@
 Tensorflow2 Keras 官方指南API demo，Jupyter版本学习笔记整理，在官方demo的基础上，丰富了一些样例，更新中。  
 
 ## 张量 
-●  [张量 ](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_01_Tensors.ipynb)   
-●  变量  
+●  [张量](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_01_Tensors.ipynb)   
+●  [变量](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_02_Variables.ipynb)   
 ●  自动微分  
 ●  图和函数简介  
 ●  模块、层和模型简介  
