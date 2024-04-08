@@ -4,13 +4,13 @@ Tensorflow2 Keras 官方指南API demo，Jupyter版本学习笔记整理，在�
 ## 张量 
 ●  [张量](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_01_Tensors.ipynb)   
 ●  [变量](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_02_Variables.ipynb)   
-●  自动微分  
+●  [自动微分](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_03_Automatic_differentiation.ipynb)  
 ●  图和函数简介  
-●  模块、层和模型简介  
-●  循环训练  
+●  [模块、层和模型简介](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_05_Modules_layers_and_models.ipynb)  
+●  [循环训练](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_06_Training_loops.ipynb)  
 ●  高级自动微分  
 ●  不规则张量  
-●  稀疏张量  
+●  [稀疏张量](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/04_TensorFlow_in_depth/04_04_Sparse_tensor.ipynb)  
 ●  Numpy API  
 ●  Tensor切片  
 
@@ -29,18 +29,22 @@ Tensorflow2 Keras 官方指南API demo，Jupyter版本学习笔记整理，在�
 ●  迁移学习和微调  
 ●  使用TensorFlow Cloud训练Keras模型  
 
+## TensorFlow Core
+●  [TensorFlow Core API 快速入门](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/03_Build_with_Core/03_01_Quickstart_for_core.ipynb)  
+●  [使用 Core API 进行二元分类的逻辑回归](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/03_Build_with_Core/03_02_Logistic_regression.ipynb)  
+
 ## 自定义
 ●  创建操作  
 ●  生成随机数字  
 
 ## 数据输入流水线
-●  tf.data  
+●  [tf.data](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/06_Data_input_pipelines/06_01_tfdata.ipynb)  
 ●  优化流水线性能  
 ●  分析流水线性能  
 
 ## 保存模型
-●  检查点  
-●  SaveModel 
+●  [检查点](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/07_Import_and_export/07_01_Checkpoint.ipynb)  
+●  [SaveModel](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/07_Import_and_export/07_01_Checkpoint.ipynb) 
 
 ## 加速器
 ●  分布式训练  
