@@ -1,5 +1,5 @@
-# Tensorflow2 Keras 官方指南
-Tensorflow2 Keras 官方指南API demo，Jupyter版本学习笔记整理，在官方demo的基础上，丰富了一些样例，更新中。  
+# 深度学习入门指南
+基于TensorFlow2 + Keras讲解深度学习入门指南。  
 
 ## 张量 
 ●  [张量](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_01_Tensors.ipynb)   
@@ -15,16 +15,16 @@ Tensorflow2 Keras 官方指南API demo，Jupyter版本学习笔记整理，在�
 ●  Tensor切片  
 
 ## Keras
-●  Sequential模型  
-●  Functional API  
-●  使用内置方法进行训练和评估  
-●  通过子类化构建新层和模型  
-●  保存并加载Keras模型  
-●  使用预处理层  
-●  自定义Model.fit的操作流程  
-●  从头开始编写训练循环  
+●  [Sequential模型](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_01_The_sequential_model.ipynb)  
+●  [Functional API](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_02_The_functional_API.ipynb)  
+●  [使用内置方法进行训练和评估](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_03_Training_evaluation_with_the_built_in_methods.ipynb)  
+●  [通过子类化构建新层和模型](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_04_Making_new_layers_and_models_via_subclassing.ipynb)  
+●  [保存并加载Keras模型](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_05_Serialization_and_saving.ipynb)  
+●  [使用预处理层](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_07_Working_with_preprocessing_layers.ipynb)  
+●  [自定义Model.fit的操作流程](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_08_Customizing_what_happens_in_fit.ipynb)  
+●  [从头开始编写训练循环](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_09_Writing_a_training_loop_from_scratch.ipynb)  
 ●  采用Keras的循环神经网络（RNN）  
-●  采用Keras进行遮盖和填充  
+●  [采用Keras进行遮盖和填充](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_11_Understading_masking_and_padding.ipynb)  
 ●  自动编写回调  
 ●  迁移学习和微调  
 ●  使用TensorFlow Cloud训练Keras模型  
