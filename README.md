@@ -44,7 +44,7 @@
 
 ## 保存模型
 ●  [Checkpoint](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/07_Import_and_export/07_01_Checkpoint.ipynb)  
-●  [SaveModel](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/07_Import_and_export/07_01_Checkpoint.ipynb) 
+●  [SavedModel](https://github.com/solidglue/Deep_Learning_TensorFlow2_Examples/blob/master/07_Import_and_export/07_02_SaveModel.ipynb) 
 
 ## 加速器
 ●  分布式训练  
