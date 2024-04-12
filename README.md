@@ -43,7 +43,7 @@
 ●  分析流水线性能  
 
 ## 保存模型
-●  [检查点](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/07_Import_and_export/07_01_Checkpoint.ipynb)  
+●  [Checkpoint](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/07_Import_and_export/07_01_Checkpoint.ipynb)  
 ●  [SaveModel](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/07_Import_and_export/07_01_Checkpoint.ipynb) 
 
 ## 加速器
