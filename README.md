@@ -7,7 +7,7 @@
 ●  [自动微分](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_03_Automatic_differentiation.ipynb)  
 ●  图和函数简介  
 ●  [模块、层和模型简介](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_05_Modules_layers_and_models.ipynb)  
-●  [循环训练](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_06_Training_loops.ipynb)  
+●  [训练循环](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/01_TensorFlow_basics/01_06_Training_loops.ipynb)  
 ●  高级自动微分  
 ●  不规则张量  
 ●  [稀疏张量](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/04_TensorFlow_in_depth/04_04_Sparse_tensor.ipynb)  
