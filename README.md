@@ -18,7 +18,7 @@
 ●  [Sequential模型](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_01_The_sequential_model.ipynb)  
 ●  [Functional API](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_02_The_functional_API.ipynb)  
 ●  [使用内置方法进行训练和评估](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_03_Training_evaluation_with_the_built_in_methods.ipynb)  
-●  [通过子类化构建新层和模型](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_04_Making_new_layers_and_models_via_subclassing.ipynb)  
+●  通过子类化构建新层和模型  
 ●  [保存并加载Keras模型](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_05_Serialization_and_saving.ipynb)  
 ●  [使用预处理层](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_07_Working_with_preprocessing_layers.ipynb)  
 ●  [自定义Model.fit的操作流程](https://github.com/solidglue/TensorFlow2_Keras_Guide_API_Jupyter_Demo/blob/master/02_Keras/02_08_Customizing_what_happens_in_fit.ipynb)  
