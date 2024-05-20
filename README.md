@@ -71,9 +71,9 @@
 ●  高级模型服务器配置  
 
 
-## 扩展
+## *扩展
 
-1.**推荐系统理论**  
+1.**推荐系统**  
 王树森推荐系统公开课 - 基于小红书的场景讲解工业界真实的推荐系统。  
 ●  [**Recommender_System**](https://github.com/solidglue/Recommender_System) 
 
@@ -87,5 +87,3 @@
 
 4.**机器学习 Sklearn入门教程**  
 ●  [**机器学习Sklearn入门教程**](https://github.com/solidglue/Machine_Learning_Sklearn_Examples)  
-
-
